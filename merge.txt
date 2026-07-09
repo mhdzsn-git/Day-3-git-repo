@@ -1,1 +1,3 @@
-view Hello
+<<<<<<< HEAD
+view Hello world
+>>>>>>> devlop
